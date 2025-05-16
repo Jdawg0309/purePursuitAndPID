@@ -1,0 +1,3 @@
+[console_scripts]
+pid_velocity_node = pid_velocity_controller.pid_velocity_node:main
+

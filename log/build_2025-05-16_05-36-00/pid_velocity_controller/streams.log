@@ -1,0 +1,31 @@
+[0.578s] Invoking command in '/home/junaet/ros2_ws/src/pid_velocity_controller': PYTHONPATH=/home/junaet/ros2_ws/build/pid_velocity_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_velocity_controller build --build-base /home/junaet/ros2_ws/build/pid_velocity_controller/build install --record /home/junaet/ros2_ws/build/pid_velocity_controller/install.log --single-version-externally-managed
+[0.723s] running egg_info
+[0.723s] creating ../../build/pid_velocity_controller/pid_velocity_controller.egg-info
+[0.723s] writing ../../build/pid_velocity_controller/pid_velocity_controller.egg-info/PKG-INFO
+[0.724s] writing dependency_links to ../../build/pid_velocity_controller/pid_velocity_controller.egg-info/dependency_links.txt
+[0.724s] writing entry points to ../../build/pid_velocity_controller/pid_velocity_controller.egg-info/entry_points.txt
+[0.724s] writing requirements to ../../build/pid_velocity_controller/pid_velocity_controller.egg-info/requires.txt
+[0.724s] writing top-level names to ../../build/pid_velocity_controller/pid_velocity_controller.egg-info/top_level.txt
+[0.724s] writing manifest file '../../build/pid_velocity_controller/pid_velocity_controller.egg-info/SOURCES.txt'
+[0.725s] reading manifest file '../../build/pid_velocity_controller/pid_velocity_controller.egg-info/SOURCES.txt'
+[0.726s] writing manifest file '../../build/pid_velocity_controller/pid_velocity_controller.egg-info/SOURCES.txt'
+[0.726s] running build
+[0.726s] running build_py
+[0.726s] creating /home/junaet/ros2_ws/build/pid_velocity_controller/build
+[0.727s] creating /home/junaet/ros2_ws/build/pid_velocity_controller/build/lib
+[0.727s] creating /home/junaet/ros2_ws/build/pid_velocity_controller/build/lib/pid_velocity_controller
+[0.727s] copying pid_velocity_controller/pid_velocity_node.py -> /home/junaet/ros2_ws/build/pid_velocity_controller/build/lib/pid_velocity_controller
+[0.727s] copying pid_velocity_controller/__init__.py -> /home/junaet/ros2_ws/build/pid_velocity_controller/build/lib/pid_velocity_controller
+[0.727s] running install
+[0.727s] running install_lib
+[0.727s] creating /home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages/pid_velocity_controller
+[0.728s] copying /home/junaet/ros2_ws/build/pid_velocity_controller/build/lib/pid_velocity_controller/pid_velocity_node.py -> /home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages/pid_velocity_controller
+[0.729s] copying /home/junaet/ros2_ws/build/pid_velocity_controller/build/lib/pid_velocity_controller/__init__.py -> /home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages/pid_velocity_controller
+[0.729s] byte-compiling /home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages/pid_velocity_controller/pid_velocity_node.py to pid_velocity_node.cpython-310.pyc
+[0.729s] byte-compiling /home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages/pid_velocity_controller/__init__.py to __init__.cpython-310.pyc
+[0.730s] running install_egg_info
+[0.730s] Copying ../../build/pid_velocity_controller/pid_velocity_controller.egg-info to /home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages/pid_velocity_controller-0.1.0-py3.10.egg-info
+[0.731s] running install_scripts
+[0.743s] Installing pid_velocity_node script to /home/junaet/ros2_ws/install/pid_velocity_controller/lib/pid_velocity_controller
+[0.744s] writing list of installed files to '/home/junaet/ros2_ws/build/pid_velocity_controller/install.log'
+[0.760s] Invoked command in '/home/junaet/ros2_ws/src/pid_velocity_controller' returned '0': PYTHONPATH=/home/junaet/ros2_ws/build/pid_velocity_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/junaet/ros2_ws/install/pid_velocity_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_velocity_controller build --build-base /home/junaet/ros2_ws/build/pid_velocity_controller/build install --record /home/junaet/ros2_ws/build/pid_velocity_controller/install.log --single-version-externally-managed
