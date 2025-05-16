@@ -1,0 +1,6 @@
+/build/
+/install/
+/log/
+/my_run/
+/.venv/
+/**/*.pyc
